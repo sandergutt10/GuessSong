@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="song_resources">
+        <item>@raw/milkovski_nuzhen</item>
+        <item>@raw/klyavin_plans</item>
+        <item>@raw/midix_yanvar</item>
+        <item>@raw/mzlff_rodinki</item>
+        <item>@raw/mzlff_listopad</item>
+        <item>@raw/ushira_lyubimyeshramy</item>
+        <item>@raw/skryptonite_etolubov</item>
+        <item>@raw/gonefludd_dospehmertveca</item>
+        <item>@raw/code10_rosewine</item>
+        <item>@raw/bladee_benice</item>
+        <item>@raw/bladee_dgjeans</item>
+        <item>@raw/bladee_hahah</item>
+        <item>@raw/brunomars_diewithasmile</item>
+        <item>@raw/daryana_juice</item>
+        <item>@raw/dora_vturilas</item>
+        <item>@raw/lidaserega_chsv</item>
+        <item>@raw/lilpeeptracy_witchblades</item>
+        <item>@raw/slavamarlow_snova</item>
+        <item>@raw/yunglean_godonlyknow</item>
+        <item>@raw/chaseatlantic_swim</item>
+    </array>
+</resources>
